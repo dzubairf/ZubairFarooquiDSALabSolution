@@ -1,4 +1,3 @@
-package LabSessions3;
 import java.util.*;
 class BalancedBrackets {
     public static void validator(String input_str) {
